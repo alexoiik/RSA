@@ -7,7 +7,7 @@ Simple implementation of Public Key Cryptography, using RSA Cryptographic Algori
 
 > ### Public Key Cryptorgaphy Process
 
-<img src="images/Public Key Cryptography.png" width="800"> 
+<img src="images/Public Key Cryptography.png" width="550"> 
 
 > ### RSA Cryptographic Algorithm Process
 
