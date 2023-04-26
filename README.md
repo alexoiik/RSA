@@ -11,6 +11,6 @@ Simple implementation of Public Key Cryptography, using RSA Cryptographic Algori
 
 > ### RSA Cryptographic Algorithm Process
 
-<img src="images/RSA Cryptographic Algorithm.png"> 
+<img src="images/RSA Cryptographic Algorithm.png" width="550"> 
 
 [*RSA Cryptographic Algorithm Code*](https://github.com/alexoiik/RSA-Cryptographic-Algorithm/blob/master/src/rsa_cryptographic_algorithm/RSA_Cryptographic_Algorithm.java)
