@@ -7,10 +7,10 @@ Simple implementation of Public Key Cryptography, using RSA Cryptographic Algori
 
 > ### Public Key Cryptorgaphy Process
 
-<img src="images/Public Key Cryptography.png" width="550"> 
+<img src="images/Public Key Cryptography.png" width="700"> 
 
 > ### RSA Cryptographic Algorithm Process
 
-<img src="images/RSA Cryptographic Algorithm.png" width="550"> 
+<img src="images/RSA Cryptographic Algorithm.png" width="700"> 
 
-[*RSA Cryptographic Algorithm Code*](https://github.com/alexoiik/RSA-Cryptographic-Algorithm/blob/master/src/rsa_cryptographic_algorithm/RSA_Cryptographic_Algorithm.java)
+View Code of RSA implementation here: [*RSA_Cryptographic_Algorithm.java*](https://github.com/alexoiik/RSA-Cryptographic-Algorithm/blob/master/src/rsa_cryptographic_algorithm/RSA_Cryptographic_Algorithm.java)
